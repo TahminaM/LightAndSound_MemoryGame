@@ -19,7 +19,7 @@ video {   /* images and videos max out at full width */
 
 
 body {  /* adjust typography defaults */
-  background-color:#165c4d;
+  background-color:#18453b;
   color: white;
   margin: 1rem;
   font-family: helvetica, arial, sans-serif;
@@ -38,8 +38,8 @@ button{
 }
 
 #gameButtonArea > button {
-  width:200px;
-  height:200px;
+  width:180px;
+  height:180px;
   margin:2px;
   border-radius: 75px;
   border-style: dotted;
@@ -55,14 +55,14 @@ button{
     background: lightgreen;
 }
 #button1:active, #button1.lit {
-    background:rgb(7, 224, 7);
+    background:green;
 }
 
 
 #button2 {
-    background: rgb(144, 213, 238);
+    background: lightblue;
 }
-#button2:active, #button1.lit {
+#button2:active, #button2.lit {
     background:blue;
 }
 
@@ -70,15 +70,15 @@ button{
 #button3 {
     background:pink;
 }
-#button3:active, #button1.lit {
+#button3:active, #button3.lit {
     background:hotpink;
 }
 
 
 #button4 {
-    background: #dbec3e;
+    background: #d1e231;
 }
-#button4:active, #button1.lit {
+#button4:active, #button4.lit {
     background:#ffba00;
 }
 
