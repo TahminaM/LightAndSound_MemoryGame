@@ -17,6 +17,7 @@ The following **required** functionality is complete:
 * [x] "Start" button toggles between "Start" and "Stop" when clicked. 
 * [x] Game buttons each light up and play a sound when clicked. 
 ## Video Walkthrough (GIF)
+![](https://i.imgur.com/HnjU2xK.gif)
 ![](https://i.imgur.com/NTAr2lo.gif)
 
 
@@ -31,7 +32,7 @@ The following **required** functionality is complete:
 * [x] User wins the game after guessing a complete pattern
 ## Video Walkthrough (GIF)
 
-![](https://i.imgur.com/HnjU2xK.gif)
+
 
 
 The following **optional** features are implemented:
@@ -79,7 +80,7 @@ After completing this project, some questions that I have about web development 
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording]([your-link-here](https://loom.com/share/ba748b8eba1745e4b20b3fe5398c1aac))
+[My 5-minute Interview Recording](https://loom.com/share/ba748b8eba1745e4b20b3fe5398c1aac)
 
 
 ## License
