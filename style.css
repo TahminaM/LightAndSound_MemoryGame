@@ -21,9 +21,10 @@ video {   /* images and videos max out at full width */
 body {  /* adjust typography defaults */
   background-color:#18453b;
   color: white;
-  margin: 1rem;
+  margin: 2rem;
   font-family: helvetica, arial, sans-serif;
   line-height: 1.5;
+  text-align: center
 }
 
 
@@ -55,15 +56,18 @@ button{
     background: lightgreen;
 }
 #button1:active, #button1.lit {
-    background:green;
+    background-size:cover;
+    background-image: url('https://cdn.glitch.global/98e089a4-606b-4661-9dcd-00dd4ad807e9/lit%202.jpeg?v=1648791680234');
 }
 
 
 #button2 {
-    background: lightblue;
+    background: Orchid;
 }
 #button2:active, #button2.lit {
-    background:blue;
+    
+    background-size:cover;
+    background-image: url('https://cdn.glitch.global/98e089a4-606b-4661-9dcd-00dd4ad807e9/L3.jpg?v=1648792214620')
 }
 
 
@@ -71,7 +75,8 @@ button{
     background:pink;
 }
 #button3:active, #button3.lit {
-    background:hotpink;
+    background-size:cover;
+    background-image: url('https://cdn.glitch.global/98e089a4-606b-4661-9dcd-00dd4ad807e9/5%20lit.png?v=1648792874227')
 }
 
 
@@ -79,6 +84,29 @@ button{
     background: #d1e231;
 }
 #button4:active, #button4.lit {
-    background:#ffba00;
+    background-size:cover;
+    background-image: url('https://cdn.glitch.global/98e089a4-606b-4661-9dcd-00dd4ad807e9/L4.webp?v=1648792461691')
+}
+#button5 {
+    background: #d69e7c;
+}
+
+
+#button5:active, #button5.lit {
+    background-size:cover;
+    background-image: url('https://cdn.glitch.global/98e089a4-606b-4661-9dcd-00dd4ad807e9/L5.webp?v=1648792647989')
+
+}
+
+
+#button6 {
+    background: #c0cbff;
+}
+
+
+#button6:active, #button6.lit {
+    background-size:cover;
+    background-image: url('https://cdn.glitch.global/98e089a4-606b-4661-9dcd-00dd4ad807e9/L2.png?v=1648791988538 ')
+
 }
 
