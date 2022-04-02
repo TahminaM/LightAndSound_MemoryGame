@@ -17,6 +17,7 @@ The following **required** functionality is complete:
 * [x] "Start" button toggles between "Start" and "Stop" when clicked. 
 * [x] Game buttons each light up and play a sound when clicked. 
 ## Video Walkthrough (GIF)
+![](https://i.imgur.com/NTAr2lo.gif)
 
 
 
