@@ -17,7 +17,6 @@ The following **required** functionality is complete:
 * [x] "Start" button toggles between "Start" and "Stop" when clicked. 
 * [x] Game buttons each light up and play a sound when clicked. 
 ## Video Walkthrough (GIF)
-![](https://i.imgur.com/HnjU2xK.gif)
 ![](https://i.imgur.com/NTAr2lo.gif)
 
 
@@ -31,7 +30,7 @@ The following **required** functionality is complete:
 
 * [x] User wins the game after guessing a complete pattern
 ## Video Walkthrough (GIF)
-
+![](https://i.imgur.com/fxvpXe3.gifv)
 
 
 
