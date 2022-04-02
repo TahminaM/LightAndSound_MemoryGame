@@ -24,20 +24,14 @@ The following **required** functionality is complete:
 * [x] Play progresses to the next turn (the user gets the next step in the pattern) after a correct guess. 
 * [x] User loses the game after an incorrect guess
 ## Video Walkthrough (GIF)
-![](file:///Users/tahminamunni/Downloads/ezgif.com-gif-maker%20(4).gif)
 
-
-
-
-
-
-
-
+![](https://i.imgur.com/KTQ9GRH.gif)
 
 
 * [x] User wins the game after guessing a complete pattern
 ## Video Walkthrough (GIF)
 
+![](https://i.imgur.com/HnjU2xK.gif)
 
 
 The following **optional** features are implemented:
@@ -55,7 +49,6 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app!
-
 
 
 ## Reflection Questions
